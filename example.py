@@ -11,3 +11,4 @@ def get_vat(payment, percent=18):
 
 result = get_vat(100, 10)
 print(result)
+print("На этом всё!")
